@@ -5942,16 +5942,16 @@
             <head ana="隠岐国"/>
             <p ana="項" corresp="engishiki_v24_en.xml#item24105001 engishiki_v24_ja.xml#item24105001" xml:id="item24105001"
                 ><placeName corresp="#隠伎国"> 隠 <anchor xml:id="app2410500101"/> 岐 <anchor xml:id="app2410500101e"/> 国
-              </placeName> 〈行程、上卅五日、下十八日、〉 <lb/> 調、 <measure ana="#調" commodity="#御取鰒" corresp="#隠岐国" type="actual"> 御取鰒
-              </measure> 、 <measure ana="#調" commodity="#短鰒" corresp="#隠岐国" type="actual"> 短鰒 </measure> 、 <measure ana="#調"
-                commodity="#烏賊" corresp="#隠岐国" type="actual"> 烏賊 </measure> 、 <measure ana="#調" commodity="#熬海鼠"
-                corresp="#隠岐国" type="actual"> 熬海鼠 </measure> 、 <measure ana="#調" commodity="#鮹腊" corresp="#隠岐国" type="actual"
-                > 鮹腊 </measure> 、 <measure ana="#調" commodity="#雑腊" corresp="#隠岐国" type="actual"> 雑腊 </measure> 、 <measure
-                ana="#調" commodity="#紫菜" corresp="#隠岐国" type="actual"> 紫菜 </measure> 、 <measure ana="#調" commodity="#海藻"
-                corresp="#隠岐国" type="actual"> 海藻 </measure> 、 <measure ana="#調" commodity="#島蒜" corresp="#隠岐国" type="actual">
-                島蒜 </measure> 、 <lb/> 庸、輸 <measure ana="#庸" commodity="#庸布" corresp="#隠岐国" type="actual"> 布 </measure> 、
-              <lb/> 中男作物、 <measure ana="#中男作物" commodity="#雑腊" corresp="#隠岐国" type="actual"> 雑腊 </measure> 、 <measure
-                ana="#中男作物" commodity="#紫菜" corresp="#隠岐国" type="actual"> 紫菜 </measure> 、 </p>
+              </placeName> 〈行程、上卅五日、下十八日、〉 <lb/> 調、 <measure ana="#調" commodity="#御取鰒" corresp="#隠伎国" type="actual"> 御取鰒
+              </measure> 、 <measure ana="#調" commodity="#短鰒" corresp="#隠伎国" type="actual"> 短鰒 </measure> 、 <measure ana="#調"
+                commodity="#烏賊" corresp="#隠伎国" type="actual"> 烏賊 </measure> 、 <measure ana="#調" commodity="#熬海鼠"
+                corresp="#隠伎国" type="actual"> 熬海鼠 </measure> 、 <measure ana="#調" commodity="#鮹腊" corresp="#隠伎国" type="actual"
+                > 鮹腊 </measure> 、 <measure ana="#調" commodity="#雑腊" corresp="#隠伎国" type="actual"> 雑腊 </measure> 、 <measure
+                ana="#調" commodity="#紫菜" corresp="#隠伎国" type="actual"> 紫菜 </measure> 、 <measure ana="#調" commodity="#海藻"
+                corresp="#隠伎国" type="actual"> 海藻 </measure> 、 <measure ana="#調" commodity="#島蒜" corresp="#隠伎国" type="actual">
+                島蒜 </measure> 、 <lb/> 庸、輸 <measure ana="#庸" commodity="#庸布" corresp="#隠伎国" type="actual"> 布 </measure> 、
+              <lb/> 中男作物、 <measure ana="#中男作物" commodity="#雑腊" corresp="#隠伎国" type="actual"> 雑腊 </measure> 、 <measure
+                ana="#中男作物" commodity="#紫菜" corresp="#隠伎国" type="actual"> 紫菜 </measure> 、 </p>
             <app from="#app2410500101" to="#app2410500101e">
               <lem wit="#土本 #近本 #壬本 #京博本 #島原本 #藤波本 #貞享本 #玄梁本 #泉亭本 #享保版本"> 岐 </lem>
               <note> 岐　訳注本「伎」。 </note>
