@@ -1639,12 +1639,12 @@
             <app from="#app0810030904" to="#app0810030904e">
               <lem wit="#土本 #永本">能</lem>
               <rdg wit="#右本">乃</rdg>
-              <note>九本この箇所欠損。</note>
+              <note>能　九本この箇所欠損。</note>
             </app>
             <app from="#app0810030905" to="#app0810030905e">
               <lem wit="#土本 #永本">能</lem>
               <rdg wit="#右本">乃</rdg>
-              <note>九本この箇所欠損。</note>
+              <note>能　九本この箇所欠損。</note>
             </app>
             <app from="#app0810030906" to="#app0810030906e">
               <lem wit="#慶安版本">登</lem>
@@ -1760,7 +1760,7 @@
             <app from="#app0810031103" to="#app0810031103e">
               <lem wit="#土本 #永本">能</lem>
               <rdg wit="#右本">乃 </rdg>
-              <note>九本この箇所欠損。</note>
+              <note>能　九本この箇所欠損。</note>
             </app>
             <app from="#app0810031104" to="#app0810031104e">
               <lem wit="#土本 #永本 #右本">乎</lem>
@@ -1790,7 +1790,7 @@
             <app from="#app0810031110" to="#app0810031110e">
               <lem wit="#土本 #永本">𤭖</lem>
               <rdg wit="#右本"/>
-              <note>九本この箇所欠損。</note>
+              <note>𤭖　九本この箇所欠損。</note>
             </app>
             <app from="#app0810031111" to="#app0810031111e">
               <lem wit="#土本 #永本 #右本">能</lem>
