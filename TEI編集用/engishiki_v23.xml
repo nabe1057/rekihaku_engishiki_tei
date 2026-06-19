@@ -2952,7 +2952,7 @@
                       >寸</unit></measure></measureGrp>、<measureGrp type="#口径">口径<measure quantity="2">二<unit unitRef="#尺"
                           >尺</unit></measure><measure quantity="1">一<unit unitRef="#寸"
                       >寸</unit></measure></measureGrp>、<measure type="#手長" quantity="9">手長九<unit unitRef="#寸"
-                      >寸</unit></measure></measureGrp></measure>、〉</note><measure ana="#交易雑器" type="actual" commodity="#臼"
+                          >寸</unit></measure></measureGrp></measure>、〉</note><measure ana="#交易雑器" type="actual" commodity="#木器臼"
                 corresp="#河内国">臼<measure quantity="6">六<unit unitRef="#腰">腰</unit></measure></measure>、<measure ana="#交易雑器"
                 type="actual" commodity="#杵" corresp="#河内国">杵<measure quantity="6">六<unit unitRef="#枚"
                 >枚</unit></measure></measure>、<measure ana="#交易雑器" type="actual" commodity="#輿籠" corresp="#河内国">輿籠<measure
@@ -2973,7 +2973,7 @@
                   >寸</unit></measure></measureGrp></measureGrp>、〉</note><measure ana="#交易雑器" type="actual" commodity="#円槽"
                 corresp="#和泉国">円槽<measure quantity="2">二<unit unitRef="#隻">隻</unit></measure></measure>、<measure ana="#交易雑器"
                 type="actual" commodity="#槽" corresp="#和泉国">槽<measure quantity="2">二<unit unitRef="#口"
-                >口</unit></measure></measure>、<measure ana="#交易雑器" type="actual" commodity="#臼" corresp="#和泉国">臼<measure
+                    >口</unit></measure></measure>、<measure ana="#交易雑器" type="actual" commodity="#木器臼" corresp="#和泉国">臼<measure
                   quantity="3">三<unit unitRef="#腰">腰</unit></measure></measure>、<measure ana="#交易雑器" type="actual"
                 commodity="#杵" corresp="#和泉国">杵<measure quantity="6">六<unit unitRef="#枚"
                 >枚</unit></measure></measure>、<measure ana="#交易雑器" type="actual" commodity="#輿籠" corresp="#和泉国">輿籠<measure
@@ -2993,7 +2993,7 @@
                 type="actual" commodity="#槽" corresp="#摂津国">槽<measure quantity="6">六<unit unitRef="#口"
                 >口</unit></measure></measure>、<measure ana="#交易雑器" type="actual" commodity="#輿籠" corresp="#摂津国">輿籠<measure
                   quantity="50">五十<unit unitRef="#口">口</unit></measure></measure>、<measure ana="#交易雑器" type="actual"
-                commodity="#臼" corresp="#摂津国">臼<measure quantity="8">八<unit unitRef="#腰"
+                    commodity="#木器臼" corresp="#摂津国">臼<measure quantity="8">八<unit unitRef="#腰"
                 >腰</unit></measure></measure>、<measure ana="#交易雑器" type="actual" commodity="#杵" corresp="#摂津国">杵<measure
                   quantity="14">十四<unit unitRef="#枚">枚</unit></measure></measure>、<measure ana="#交易雑器" type="actual"
                 commodity="#匏" corresp="#摂津国">匏<measure quantity="175">一百七十五<unit unitRef="#柄"
