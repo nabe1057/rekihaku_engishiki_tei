@@ -1595,7 +1595,7 @@
                     </measure> 、〉 </note>
                 </measure>
               </measure>
-              <measure ana="#調" commodity="#脚短杯有蓋" type="standard"> 脚短杯有蓋 <measure quantity="13"> 十三 <unit unitRef="#合_set"
+              <measure ana="#調" commodity="#脚短杯" type="standard"> 脚短杯有蓋 <measure quantity="13"> 十三 <unit unitRef="#合_set"
                     xml:id="measure2410010207"> 合 </unit> 、 <note target="#measure2410010207"> 〈 <measure ana="Volume"
                       quantity="1" sameAs="#measure2410010207" type="supplement"> 受一 <unit unitRef="#斗"><anchor xml:id="app2410010203"/> 斗 <anchor
                           xml:id="app2410010203e"/>
@@ -1603,7 +1603,7 @@
                     </measure> 、〉 </note>
                 </measure>
               </measure>
-              <measure ana="#調" commodity="#脚短杯無蓋" type="standard"> 無蓋 <measure quantity="20"> 廿 <unit unitRef="#口"
+              <measure ana="#調" commodity="#脚短杯" type="standard"> 無蓋 <measure quantity="20"> 廿 <unit unitRef="#口"
                     xml:id="measure2410010208"> 口 </unit> 、 <note target="#measure2410010208"> 〈 <measure ana="Volume"
                       quantity="3" sameAs="#measure2410010208" type="supplement"> 受三 <unit unitRef="#合"> 合 </unit>
                     </measure> 、〉 </note>
@@ -3862,7 +3862,7 @@
             <head ana="和泉国"/>
             <p ana="項" corresp="engishiki_v24_en.xml#item24101201 engishiki_v24_ja.xml#item24101201" xml:id="item24101201"
                 ><placeName corresp="#和泉国"> 和泉国 </placeName> 〈行程二日、〉 <lb/> 調、 <measure ana="#調" commodity="#藺笠" corresp="#和泉国"
-                type="actual"> 藺笠卌六枚 </measure> 、 <measure ana="#調" commodity="#藺笥" corresp="#和泉国" type="actual"><measure
+                  type="actual"> 藺笠<measure quantity="46">卌六<unit unitRef="#枚">枚</unit></measure> </measure> 、 <measure ana="#調" commodity="#藺笥" corresp="#和泉国" type="actual"><measure
                   xml:id="measure2410120101"> 藺笥 <measure quantity="10"> 十 <unit unitRef="#合_set"> 合 </unit>
                   </measure>
                 </measure> 、 <note target="#measure2410120101"> 〈大 <measure quantity="5" type="supplement"> 五 <unit unitRef="#合_set"> 合 </unit>
@@ -4092,10 +4092,10 @@
                 </measure>
               </measure> 、 自余輸 <measure ana="#調" commodity="#絹" corresp="#伊勢国" type="actual"> 絹 </measure> ・ <measure ana="#調"
                 commodity="#塩" corresp="#伊勢国" type="actual"> 塩 </measure> 、 <lb/> 庸、 <measure ana="#庸" commodity="#韓櫃"
-                corresp="#伊勢国" type="actual"><measure xml:id="measureapp2410140101"> 韓櫃 <measure quantity="23"> 廿三 <unit
+                corresp="#伊勢国" type="actual"><measure xml:id="measure2410140102"> 韓櫃 <measure quantity="23"> 廿三 <unit
                       unitRef="#合_set"> 合 </unit>
                   </measure>
-                </measure> 、 <note target="#measureapp2410140101"> 〈 <measure ana="#庸" commodity="#塗漆着鎖韓櫃" type="supplement"><anchor
+                </measure> 、 <note target="#measure2410140102"> 〈 <measure ana="#庸" commodity="#塗漆着鎖韓櫃" type="supplement"><anchor
                       xml:id="app2410140101"/> 塗漆 <anchor xml:id="app2410140101e"/>
                     <anchor xml:id="app2410140102"/> 着鎖 <anchor xml:id="app2410140102e"/>
                     <measure quantity="8"> 八 <unit unitRef="#合_set"> 合 </unit>
@@ -4231,7 +4231,7 @@
                 corresp="#尾張国" type="actual"> 麻 <measure ana="Weight" quantity="100"> 一百 <unit unitRef="#斤"> 斤 </unit>
                 </measure>
               </measure> 、 <measure ana="#中男作物" commodity="#黄蘗" corresp="#尾張国" type="actual"> 黄蘗 <measure ana="Weight"
-                  quantity="2"> 二百 <unit unitRef="#斤"> 斤 </unit>
+                  quantity="200"> 二百 <unit unitRef="#斤"> 斤 </unit>
                 </measure>
               </measure> 、 <measure ana="#中男作物" commodity="#紙" corresp="#尾張国" type="actual"> 紙 </measure> 、 <measure ana="#中男作物"
                 commodity="#紅花" corresp="#尾張国" type="actual"> 紅花 </measure> 、 <measure ana="#中男作物" commodity="#胡麻油" corresp="#尾張国"
@@ -4250,8 +4250,8 @@
             <head ana="参河国"/>
             <p ana="項" corresp="engishiki_v24_en.xml#item24101701 engishiki_v24_ja.xml#item24101701" xml:id="item24101701"
                 ><placeName corresp="#参河国"> 参河国 </placeName> 〈行程、上十一日、下六日、〉 <lb/> 調、 <measure ana="#調" commodity="#襷羅"
-                corresp="#参河国" type="actual"> 襷羅 <measure quantity="1"/>
-                <unit unitRef="#疋"/>
+                corresp="#参河国" type="actual"> 襷羅 <measure quantity="1">
+                <unit unitRef="#疋"/></measure>
               </measure> ・ <measure ana="#調" commodity="#藻羅" corresp="#参河国" type="actual"> 藻羅各 <measure quantity="1"> 一 <unit
                     unitRef="#疋"> 疋 </unit>
                 </measure>
@@ -4357,7 +4357,7 @@
               </measure> ・ <measure ana="#調" commodity="#呉服綾赤" corresp="#遠江国" type="actual"> 赤 <measure quantity="15"> 十五 <unit
                     unitRef="#疋"> 疋 </unit>
                 </measure>
-              </measure> 、 <measure ana="#調" commodity="#御襪料白絹" corresp="#遠江国" type="actual"> 御襪料白絹 <measure unitRef="12"> 十二
+              </measure> 、 <measure ana="#調" commodity="#白絹" corresp="#遠江国" type="actual"> 御襪料白絹 <measure quantity="12"> 十二
                     <unit unitRef="#疋"> 疋 </unit>
                 </measure>
               </measure> 、 <measure ana="#調" commodity="#緋帛" corresp="#遠江国" type="actual"> 緋帛 <measure quantity="40"> 卌 <unit
@@ -5124,7 +5124,7 @@
                 commodity="#芥子" corresp="#信濃国" type="actual"> 芥子 </measure> 、 <measure ana="#中男作物" commodity="#猪膏" corresp="#信濃国"
                 type="actual"> 猪膏 </measure> 、 <measure ana="#中男作物" commodity="#脯" corresp="#信濃国" type="actual"> 脯 </measure> 、
                 <measure ana="#中男作物" commodity="#雉腊" corresp="#信濃国" type="actual"> 雉腊 </measure> 、 <measure ana="#中男作物"
-                commodity="#鮭楚割" corresp="#信濃国" type="actual"> 鮭楚割 </measure> 、 <measure ana="#中男作物" commodity="#氷頭"
+                  commodity="#鮭楚割" corresp="#信濃国" type="actual"> 鮭楚割 </measure> 、 <measure ana="#中男作物" commodity="#鮭氷頭"
                 corresp="#信濃国" type="actual"><anchor xml:id="app2410310101"/> 氷 <anchor xml:id="app2410310101e"/> 頭 </measure> 、
                 <measure ana="#中男作物" commodity="#背腸" corresp="#信濃国" type="actual"> 背腸 </measure> 、 <measure ana="#中男作物"
                 commodity="#鮭子" corresp="#信濃国" type="actual"> 鮭子 </measure> 、 </p>
@@ -5799,7 +5799,7 @@
               </measure> 、 <measure ana="#調" commodity="#縹帛" corresp="#出雲国" type="actual"> 縹帛 <measure quantity="10"> 十 <unit
                     unitRef="#疋"> 疋 </unit>
                 </measure>
-              </measure> 、 <measure ana="#調" commodity="#纁帛" corresp="#出雲国" type="actual"> 纁帛 <measure unitRef="80"> 八十 <unit
+              </measure> 、 <measure ana="#調" commodity="#纁帛" corresp="#出雲国" type="actual"> 纁帛 <measure quantity="80"> 八十 <unit
                     unitRef="#疋"> 疋 </unit>
                 </measure>
               </measure> 、 <measure ana="#調" commodity="#橡帛" corresp="#出雲国" type="actual"> 橡帛 <measureGrp><measure quantity="12">
@@ -5928,14 +5928,14 @@
                 <measure quantity="159"> 百五十九 <unit unitRef="#疋"> 疋 </unit>
                 </measure>
               </measure> 、 <measure ana="#調" commodity="#池由加" corresp="#播磨国" type="actual"> 池由加 <measure quantity="5"> 五 <unit
-                    unitRef="#口" xml:id="measure2410510101"> 口 </unit> 、 <note target="#measure2410510101"> 〈受 <measure
-                      ana="Volume" quantity="5" sameAs="#measure2410510101" type="supplement"> 五 <unit unitRef="#石"> 石 </unit>
+                    unitRef="#口" xml:id="measure2410510101"> 口 </unit> 、 <note target="#measure2410510101"> 〈<measure
+                        ana="Volume" quantity="5" sameAs="#measure2410510101" type="supplement"> 受五 <unit unitRef="#石"> 石 </unit>
                     </measure> 、〉 </note>
                 </measure>
               </measure>
               <measure ana="#調" commodity="#中由加" corresp="#播磨国" type="actual"> 中由加 <measure quantity="5"> 五 <unit unitRef="#口"
-                    xml:id="measure2410510102"> 口 </unit> 、 <note target="#measure2410510102"> 〈受 <measure ana="Volume"
-                      quantity="1" sameAs="#measure2410510102" type="supplement"> 一 <unit unitRef="#石"> 石 </unit>
+                    xml:id="measure2410510102"> 口 </unit> 、 <note target="#measure2410510102"> 〈<measure ana="Volume"
+                        quantity="1" sameAs="#measure2410510102" type="supplement"> 受一 <unit unitRef="#石"> 石 </unit>
                     </measure> 、〉 </note>
                 </measure>
               </measure>
