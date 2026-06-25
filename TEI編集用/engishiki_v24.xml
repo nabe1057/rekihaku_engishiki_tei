@@ -1366,8 +1366,8 @@
           <div ana="主計上" corresp="engishiki_v24_en.xml#article241001 engishiki_v24_ja.xml#article241001" n="24.1" type="条"
             xml:id="article241001">
             <head ana="畿内調"/>
-            <p ana="項" corresp="engishiki_v24_en.xml#item24100101 engishiki_v24_ja.xml#item24100101" xml:id="item24100101"> 凡左右京・五
-                <placeName corresp="#畿内"> 畿内 </placeName> 国調、一丁輸銭随時増減、 <anchor xml:id="app2410010101"/> 其 <anchor
+            <p ana="項" corresp="engishiki_v24_en.xml#item24100101 engishiki_v24_ja.xml#item24100101" xml:id="item24100101"> 凡<orgName corresp="#左右京">左右京</orgName>・五
+              <placeName corresp="#畿内"> 畿内 </placeName> 国調、一丁輸<measure ana="#調" commodity="#銭" type="standard">銭</measure>随時増減、 <anchor xml:id="app2410010101"/> 其 <anchor
                 xml:id="app2410010101e"/>
               <placeName corresp="#畿内"> 畿内 </placeName> 輸雑物者、一丁 <measure ana="#調" commodity="#藺笠" type="standard"> 藺笠 <measure
                   quantity="2"> 二 <unit unitRef="#枚"> 枚 </unit>
@@ -2068,7 +2068,7 @@
             <head ana="諸国調"/>
             <p ana="項" corresp="engishiki_v24_en.xml#item24100201 engishiki_v24_ja.xml#item24100201" xml:id="item24100201"> 凡
                 <placeName corresp="#諸国"> 諸国 </placeName> 輸調、 <measure ana="#調" commodity="#両面錦" type="standard"> 両面 </measure>
-              十一丁 <anchor xml:id="app2410020101"/> 成疋 <anchor xml:id="app2410020101e"/> 、〈丁別輸糸国以徭夫織成、羅・綾准此、〉 <measure ana="#調"
+              十一丁 <anchor xml:id="app2410020101"/> 成疋 <anchor xml:id="app2410020101e"/> 、〈丁別輸<measure ana="#調" commodity="#糸" type="standard">糸</measure>国以徭夫織成、<measure ana="#調" commodity="#羅" type="standard">羅</measure>・<measure ana="#調" commodity="#綾" type="standard">綾</measure>准此、〉 <measure ana="#調"
                 commodity="#雑羅" type="standard"> 雑羅 </measure> 三丁成疋、 <measure ana="#調" commodity="#三色綾" type="standard"><anchor
                   xml:id="app2410020102"/> 三 <anchor xml:id="app2410020102e"/> 色綾 </measure> 十丁成疋、 <measure ana="#調"
                 commodity="#一窠綾" type="standard"> 一窠綾 </measure> ・ <measure ana="#調" commodity="#二窠綾" type="standard"> 二窠綾
@@ -2077,16 +2077,16 @@
                 ana="#調" commodity="#小鸚鵡綾" type="standard"> 小鸚鵡綾 </measure> ・ <measure ana="#調" commodity="#薔薇綾" type="standard">
                 薔薇綾 </measure> ・ <measure ana="#調" commodity="#二花綾" type="standard"> 二花綾 </measure> ・ <measure ana="#調"
                 commodity="#莱花綾" type="standard"><anchor xml:id="app2410020103"/> 莱 <anchor xml:id="app2410020103e"/> 花綾
-              </measure> 、並上糸国七丁成疋、中糸国六丁成疋、〈 <placeName corresp="#讃岐国"> 讃岐国 </placeName> 五丁成疋、〉麁糸国五丁成疋、〈 <placeName corresp="#相摸国"
+                </measure> 、並<placeName corresp="#上糸国">上糸国</placeName>七丁成疋、<placeName corresp="#中糸国">中糸国</placeName>六丁成疋、〈 <placeName corresp="#讃岐国"> 讃岐国 </placeName> 五丁成疋、〉<placeName corresp="#麁糸国">麁糸国</placeName>五丁成疋、〈 <placeName corresp="#相摸国"
                 > 相摸国 </placeName> 三窠綾・七窠綾四丁成疋、〉 <measure ana="#調" commodity="#続花綾" type="standard"> 続花綾 </measure> ・ <measure
-                ana="#調" commodity="#瓜核綾" type="standard"> 瓜核綾 </measure> 中糸国、 <measure ana="#調" commodity="#野草綾" type="standard">
-                野草綾 </measure> 麁 <anchor xml:id="app2410020104"/> 糸 <anchor xml:id="app2410020104e"/> 国、並三丁成疋、 <measure ana="#調"
+                  ana="#調" commodity="#瓜核綾" type="standard"> 瓜核綾 </measure> <placeName corresp="#中糸国">中糸国</placeName>、 <measure ana="#調" commodity="#野草綾" type="standard">
+                    野草綾 </measure> <placeName corresp="#麁糸国">麁 <anchor xml:id="app2410020104"/> 糸 <anchor xml:id="app2410020104e"/> 国</placeName>、並三丁成疋、 <measure ana="#調"
                 commodity="#大結花綾" type="standard"> 大結花綾 </measure> ・ <measure ana="#調" commodity="#連水綾" type="standard"> 連水綾
               </measure> ・ <measure ana="#調" commodity="#小車牙綾" type="standard"> 小車牙綾 </measure> ・ <measure ana="#調"
                 commodity="#散花単綾" type="standard"> 散花単綾 </measure> ・ <measure ana="#調" commodity="#小蓮花綾" type="standard"> 小蓮花綾
               </measure> ・ <measure ana="#調" commodity="#小結綾" type="standard"><anchor xml:id="app2410020105"/> 小結 <anchor
-                  xml:id="app2410020105e"/> 綾 </measure> 上糸国、 <measure ana="#調" commodity="#呉服綾" type="standard"> 呉服綾 </measure>
-              中糸国、並三丁半成疋、 </p>
+                  xml:id="app2410020105e"/> 綾 </measure> <placeName corresp="#上糸国">上糸国</placeName>、 <measure ana="#調" commodity="#呉服綾" type="standard"> 呉服綾 </measure>
+              <placeName corresp="#中糸国">中糸国</placeName>、並三丁半成疋、 </p>
             <app from="#app2410020101" to="#app2410020101e">
               <lem wit="#土本 #近本 #島原本 #藤波本 #貞享本 #泉亭本 #享保版本"> 成疋 </lem>
               <rdg wit="#壬本 #京博本 #玄梁本"/>
@@ -2115,7 +2115,7 @@
                 ><measure ana="#調" commodity="#絹" type="standard" xml:id="measure2410020201"> 絹 </measure> ・ <measure ana="#調"
                 commodity="#絁" type="standard"><measure xml:id="measure2410020202"><anchor xml:id="app2410020201"/> 絁 <anchor
                     xml:id="app2410020201e"/>
-                </measure> 、 <note target="#measure2410020201 #measure2410020202"> 〈両面已下各 <measureGrp type="supplement"><measure quantity="6"
+                </measure> 、 <note target="#measure2410020201 #measure2410020202"> 〈<measure ana="#調" commodity="#両面">両面</measure>已下各 <measureGrp type="supplement"><measure quantity="6"
                       type="depth"> 長六 <unit unitRef="#丈"> 丈 </unit>
                     </measure> 、 <measureGrp type="width"><measure quantity="1"><pb
                           facs="https://iiif.rekihaku.ac.jp/fcgi-bin/iipsrv.fcgi?IIIF=engishiki/H-743-74-24/00005.tif/full/max/0/default.jpg"
@@ -2238,7 +2238,7 @@
                     <measure quantity="4"> 四 <unit unitRef="#寸"> 寸 </unit>
                     </measure>
                   </measureGrp>
-                </measureGrp> 、 <placeName corresp="#大隅国"> 大隅 </placeName> ・ <placeName corresp="#薩摩国"> 薩摩 </placeName> 両国調布四丁成端、〉 </note>
+                </measureGrp> 、 <placeName corresp="#大隅国"> 大隅 </placeName> ・ <placeName corresp="#薩摩国"> 薩摩 </placeName> 両国<measure ana="#調" commodity="#調布" type="standard">調布</measure>四丁成端、〉 </note>
               <measure ana="#調" commodity="#狭布" type="standard" xml:id="measure2410020215"> 狭布 </measure> 二丁成端、 <note
                 target="#measure2410020215"> 〈 <measureGrp type="supplement"><measureGrp type="depth"> 長 <measure quantity="3"> 三 <unit unitRef="#丈"
                         > 丈 </unit>
@@ -2282,7 +2282,7 @@
                   </measure> 、 <measure ana="#調" commodity="#麁糸" type="standard"> 麁糸 <measure quantity="7"> 七 <unit unitRef="#両">
                         両 </unit>
                     </measure>
-                  </measure> 各為絇、〉 </note>
+                  </measure> 各為<unit unitRef="#絇">絇</unit>、〉 </note>
               </measure><measure ana="#調" commodity="#畳綿" type="standard"> 畳綿 <measure quantity="2"> 二 <unit unitRef="#帖"
                     xml:id="measure2410020302"> 帖 </unit>
                 </measure>
@@ -2293,11 +2293,11 @@
                     > 三 <unit unitRef="#両"> 両 </unit>
                   </measure><measure quantity="1"> 一 <unit unitRef="#分_Weight"> 分 </unit>
                   </measure><measure quantity="2"> 二 <unit unitRef="#銖"> 銖 </unit>
-                  </measure></measureGrp> 為帖・屯、〉 </note>
+                  </measure></measureGrp> 為<unit unitRef="#帖">帖</unit>・<unit unitRef="#屯">屯</unit>、〉 </note>
               <measure ana="#調" commodity="#綿" type="standard"> 綿 <measure quantity="2"> 二 <unit unitRef="#屯"
                     xml:id="measure2410020304"> 屯 </unit>
                 </measure> 、 <note target="#measure2410020304"> 〈 <measure quantity="4" type="supplement"> 四 <unit unitRef="#両"> 両 </unit>
-                  </measure> 為屯、〉 </note>
+                </measure> 為<unit unitRef="#屯">屯</unit>、〉 </note>
               </measure>
             </p>
             <app from="#app2410020301" to="#app2410020301e">
@@ -2317,7 +2317,7 @@
                 </measure> 、 <note target="#measure2410020401"> 〈 <measureGrp ana="Weight" type="supplement"><measure quantity="3"> 三 <unit
                         unitRef="#斤"> 斤 </unit>
                     </measure><measure quantity="5"> 五 <unit unitRef="#両"> 両 </unit>
-                    </measure></measureGrp> 為廷、〉 </note>
+                    </measure></measureGrp> 為<unit unitRef="#廷">廷</unit>、〉 </note>
               </measure>
               <measure ana="#調" commodity="#鍬" type="standard"> 鍬 <measure quantity="3"> 三 <unit unitRef="#口"> 口 </unit>
                 </measure>
@@ -2518,10 +2518,10 @@
               <measure ana="#調" commodity="#韲杯" type="standard"><measure xml:id="measure2410020507"> 韲杯 <measure quantity="100"> 百
                       <unit unitRef="#口"> 口 </unit>
                   </measure>
-                </measure> 、 <note target="measure2410020507"> 〈有蓋 <measure quantity="54"> 五十四 <unit unitRef="#合_set"><anchor
+              </measure> 、 <note target="measure2410020507"> 〈<measure commodity="#有蓋韲杯">有蓋 <measure quantity="54"> 五十四 <unit unitRef="#合_set"><anchor
                         xml:id="app2410020506"/> 合 <anchor xml:id="app2410020506e"/>
                     </unit>
-                  </measure> 、〉 </note>
+                  </measure></measure> 、〉 </note>
               </measure>
               <measure ana="#調" commodity="#燈盞" type="standard"> 燈盞 <measure quantity="200"> 二百 <unit unitRef="#口"> 口 </unit>
                 </measure>
@@ -2872,7 +2872,7 @@
                     unitRef="#斤"/></measure>
               </measure> ・ <measure ana="#調" commodity="#島蒜" type="standard"> 島蒜各 <measure ana="Weight" quantity="72"> 七十二 <unit
                     unitRef="#斤"> 斤 </unit>
-                </measure> 、〈已上斤・両並大、下条亦同、〉 </measure>
+              </measure> 、〈已上<unit unitRef="#斤">斤</unit>・<unit unitRef="#両">両</unit>並大、下条亦同、〉 </measure>
             </p>
             <app from="#app2410020801" to="#app2410020801e">
               <lem wit="#近本 #壬本 #京博本 #玄梁本"> 卌 </lem>
@@ -2957,7 +2957,7 @@
                         </measure> 以下 <measureGrp><measure quantity="1"> 一 <unit unitRef="#尺"> 尺 </unit>
                           </measure><measure atLeast="8"> 八 <unit unitRef="#寸"> 寸 </unit>
                           </measure></measureGrp> 以上 </measureGrp>
-                    </measureGrp> 、固作以小平釘、署専当郡司名、〉 </note>
+                    </measureGrp> 、固作以<measure commodity="#小平釘">小平釘</measure>、署専当郡司名、〉 </note>
                 </measure>
               </measure> 三丁 <measure ana="#庸" commodity="#塗漆韓櫃" type="standard"> 塗漆韓櫃 <measure quantity="1"> 一 <unit
                     unitRef="#合_set" xml:id="measure2410030107"> 合 </unit> 、 <note target="#measure2410030107"> 〈 <measureGrp
@@ -3159,7 +3159,7 @@
                 </measure>
               </measure> 、 <measure ana="#中男作物" commodity="#鮭" type="standard"> 鮭 <measure quantity="2" xml:id="measure2410040201"
                   > 二 <unit unitRef="#隻"> 隻 </unit>
-                </measure> 、 <note target="#measure2410040201"> 〈 <measure commodity="#鮭" type="supplement"> 小 <measure quantity="3"><anchor xml:id="app2410040205"/> 三
+              </measure> 、 <note target="#measure2410040201"> 〈 <measure commodity="#小鮭" type="supplement"> 小 <measure quantity="3"><anchor xml:id="app2410040205"/> 三
                       <anchor xml:id="app2410040205e"/>
                     <unit unitRef="#隻"> 隻 </unit>
                   </measure> </measure> 、〉 </note>
@@ -3513,12 +3513,12 @@
                 </measure></measure> 、 <placeName corresp="#伊勢国"> 伊勢 </placeName>
               <measure ana="#調" commodity="#上糸白糸" type="standard"><measure ana="Weight" quantity="880" xml:id="measure2410050102">
                   八百八十 <unit unitRef="#絇"> 絇 </unit>
-                </measure> 、 <note target="#measure2410050101 #measure2410050102"> 〈白糸、〉 </note>
+              </measure> 、 <note target="#measure2410050101 #measure2410050102"> 〈<measure commodity="#白糸" sameAs="measure2410050102">白糸</measure>、〉 </note>
               </measure>
               <placeName corresp="#参河国"> 参河 </placeName>
               <measure ana="#調" commodity="#上糸犬頭白糸"><measure ana="Weight" quantity="2000" xml:id="measure2410050103"> 二千 <unit
                     unitRef="#絇"> 絇 </unit>
-                </measure> 、 <note target="#measure2410050103"> 〈犬頭糸、〉 </note>
+              </measure> 、 <note target="#measure2410050103"> 〈<measure commodity="#犬頭糸" sameAs="#measure2410050103">犬頭糸</measure>、〉 </note>
               </measure>
               <placeName corresp="#越前国"> 越前 </placeName>
               <measure ana="#調" commodity="#中糸" type="standard"><measure ana="Weight" quantity="100"> 一百 <unit unitRef="#絇"> 絇
@@ -3667,7 +3667,7 @@
           <div ana="主計上" corresp="engishiki_v24_en.xml#article241007 engishiki_v24_ja.xml#article241007" n="24.7" type="条"
             xml:id="article241007">
             <head ana="左右京"/>
-            <p ana="項" corresp="engishiki_v24_en.xml#item24100701 engishiki_v24_ja.xml#item24100701" xml:id="item24100701"> 左右京
+            <p ana="項" corresp="engishiki_v24_en.xml#item24100701 engishiki_v24_ja.xml#item24100701" xml:id="item24100701"> <orgName corresp="#左右京">左右京</orgName>
               <lb/> 調、輸 <measure ana="#調" commodity="#銭" corresp="#左右京" type="actual"> 銭 </measure> 、 </p>
           </div>
           <div ana="主計上" corresp="engishiki_v24_en.xml#article241008 engishiki_v24_ja.xml#article241008" n="24.8" type="条"
@@ -3865,9 +3865,9 @@
                   type="actual"> 藺笠<measure quantity="46">卌六<unit unitRef="#枚">枚</unit></measure> </measure> 、 <measure ana="#調" commodity="#藺笥" corresp="#和泉国" type="actual"><measure
                   xml:id="measure2410120101"> 藺笥 <measure quantity="10"> 十 <unit unitRef="#合_set"> 合 </unit>
                   </measure>
-                </measure> 、 <note target="#measure2410120101"> 〈大 <measure quantity="5" type="supplement"> 五 <unit unitRef="#合_set"> 合 </unit>
-                  </measure> 、小 <measure quantity="5" type="supplement"> 五 <unit unitRef="#合_set"> 合 </unit>
-                  </measure> 、〉 </note>
+                  </measure> 、 <note target="#measure2410120101"> 〈<measure commodity="大藺笥">大 <measure quantity="5" type="supplement"> 五 <unit unitRef="#合_set"> 合 </unit>
+                  </measure></measure> 、<measure commodity="小藺笥">小 <measure quantity="5" type="supplement"> 五 <unit unitRef="#合_set"> 合 </unit>
+                  </measure></measure> 、〉 </note>
               </measure>
               <measure ana="#調" commodity="#池由加" corresp="#和泉国" type="actual"> 陶池由加 <measure quantity="3"> 三 <unit unitRef="#口"> 口
                   </unit>
@@ -3997,7 +3997,7 @@
                 </measure> 、 <note target="#measure2410130101"> 〈数内輸 <measure ana="#調" commodity="#白絹" type="supplement"> 白絹 <measure quantity="10">
                       十 <unit unitRef="#疋"> 疋 </unit>
                     </measure>
-                  </measure> 、余輸絹国皆准此、〉 </note>
+                </measure> 、余輸<measure ana="#調" commodity="#絹">絹</measure>国皆准此、〉 </note>
               </measure>
               <measure ana="#調" commodity="#橡糸" corresp="#伊賀国" type="actual"><measure xml:id="measure2410130102"> 橡糸
                   </measure><measure ana="Weight" quantity="20"> 廿 <unit unitRef="#絇"> 絇 </unit>
@@ -6480,7 +6480,7 @@
                 ><placeName corresp="#長門国"> 長門国 </placeName> 〈行程、上廿一日、下十一日、〉海路廿三日、 <lb/> 調、 <measure ana="#調" commodity="#綿"
                 corresp="#長門国" type="actual"> 綿 </measure> 、 <measure ana="#調" commodity="#糸" corresp="#長門国" type="actual"> 糸
               </measure> 、 <measure ana="#調" commodity="#雑鰒" corresp="#長門国" type="actual"> 雑鰒 </measure> 、但大津・阿武両郡浮浪人調、 <anchor
-                xml:id="app2410580101"/> 充 <anchor xml:id="app2410580101e"/> 採銅鉛料、 <lb/> 庸、輸 <measure ana="#庸" commodity="#綿"
+                xml:id="app2410580101"/> 充 <anchor xml:id="app2410580101e"/> 採<measure commodity="#銅">銅</measure><measure commodity="#鉛">鉛</measure>料、 <lb/> 庸、輸 <measure ana="#庸" commodity="#綿"
                 corresp="#長門国" type="actual"> 綿 </measure> ・ <measure ana="#庸" commodity="#米" corresp="#長門国" type="actual"> 米
               </measure> 、 <lb/> 中男作物、 <measure ana="#中男作物" commodity="#紙" corresp="#長門国" type="actual"> 紙 </measure> 、 <measure
                 ana="#中男作物" commodity="#胡麻油" corresp="#長門国" type="actual"> 胡麻油 </measure> 、 <measure ana="#中男作物" commodity="#薄鰒"
