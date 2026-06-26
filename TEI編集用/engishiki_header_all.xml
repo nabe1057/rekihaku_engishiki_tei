@@ -901,7 +901,7 @@
             <item> 【語彙管理と情報の集積】<gi>taxonomy</gi>
                 は、史料中の物品名を語彙項目として整理し、表記の統合を図るためのものである。各項目は、解説（<gi>label</gi>）に加え、文字種（漢字・かな等）およびデータ種（校訂文・現代語訳・英訳）ごとの表記情報を、<gi>listNym</gi>
               および <gi>nym</gi> を用いて構造的に保持している。また、語句間の関係性は、<gi>taxonomy</gi> の階層構造ではなく <gi>standOff</gi> 内の <gi>relation</gi>
-              によって記述する。 </item>
+              によって記述する。なお、これらの語彙情報や関係情報は、公開対象の拡充や内容の見直しに応じて継続的に追加・調整される管理データである。 </item>
             <item>【レイアウトの再現と <gi>table</gi>】 本文中の神名列記など、特定の視覚的段落表現を保持するため、<gi>table</gi> をレイアウト制御の手段として利用している。これは、空の <gi>cell</gi>
                 や幅指定（<att>rendition</att>）を組み合わせることで、史料が持つ空間的な配置情報をデジタル文脈で表現するためのものである。</item>
             <item> 【データの統一性に関する注記】 日本史料への TEI
@@ -1452,6 +1452,11 @@
           <label xml:lang="ja"> 腰 </label>
           <label xml:lang="ja-Latn"> koshi </label>
           <desc> 主に器具の数を数える単位。 </desc>
+        </unitDef>
+        <unitDef xml:id="丁">
+          <label xml:lang="ja">丁</label>
+          <label xml:lang="ja-Latn">tei</label>
+          <desc>律令制において、成年男子一人を基準とする課役・貢納の単位。</desc>
         </unitDef>
       </unitDecl>
     </encodingDesc>
