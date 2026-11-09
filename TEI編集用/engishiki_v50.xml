@@ -1783,6 +1783,7 @@
             <app from="#app5010050105" to="#app5010050105e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本補書">首</lem>
               <rdg wit="#林家本">酋</rdg>
+              <note>前本補書「首」</note>
               <note>首 土本・近本・壬本・京博本・西本・梵本「首」。前本この一字補書、林家本「酋」。</note>
             </app>
             <app from="#app5010050106" to="#app5010050106e">
@@ -1857,6 +1858,7 @@
             </app>
             <app from="#app5010060104" to="#app5010060104e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本補書 #前本 #林家本">官</lem>
+              <note>西本補書「官」</note>
               <note>官 西本この一字補書。</note>
             </app>
             <app from="#app5010060105" to="#app5010060105e">
@@ -2495,6 +2497,7 @@
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">並</lem>
               <rdg wit="#林家本">立</rdg>
               <rdg wit="#林家本補書">【立+立】もしくは竝</rdg>
+              <note>林家本補書「立」</note>
               <note>並　林家本「立」に補書「立」。</note>
             </app>
           </div>
@@ -2712,27 +2715,32 @@
             </app>
             <app from="#app5010460103" to="#app5010460103e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">充</lem>
-              <rdg/>
+              <note place="傍">壬本傍書「与」</note>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">宛</seg>」</note>
               <note>充　壬本傍書「与」、京博本朱傍書「宛」。</note>
             </app>
             <app from="#app5010460104" to="#app5010460104e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">遣</lem>
-              <rdg/>
+              <note place="傍">壬本朱傍書「<seg rendition="#shu">立</seg>」</note>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">立</seg>」</note>
               <note>遣　壬本・京博本朱傍書「立」。</note>
             </app>
             <app from="#app5010460105" to="#app5010460105e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">司</lem>
-              <rdg/>
+              <lem wit="#西本">司</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">日</rdg>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">司イ</seg>」</note>
               <note>司　土本・近本・壬本・京博本・梵本・前本・林家本「日」、京博本朱傍書「司イ」、西本により改める。</note>
             </app>
             <app from="#app5010460106" to="#app5010460106e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">逓</lem>
-              <rdg/>
+              <lem wit="#西本">逓</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本"/>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">逓イ</seg>」</note>
               <note>逓　土本・近本・壬本・京博本・梵本・前本・林家本、京博本朱傍書「逓イ」、西本により改める。</note>
             </app>
             <app from="#app5010460107" to="#app5010460107e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">与</lem>
-              <rdg/>
+              <lem wit="#土本 #西本 #前本 #林家本">与</lem>
+              <rdg wit="#近本 #壬本 #京博本 #梵本">興</rdg>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">与イ</seg>」</note>
               <note>与　土本・西本・前本・林家本「与」。近本・壬本・京博本・梵本「興」、京博本朱傍書「与イ」。</note>
             </app>
           </div>
@@ -2752,43 +2760,47 @@
                 xml:id="app5010470107e"/>以下、史生十人以下、並量事給之、不必満数、但依犯<anchor xml:id="app5010470108"
                 />解<anchor xml:id="app5010470108e"/>任之輩、不在給限、 </p>
             <app from="#app5010470101" to="#app5010470101e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">官</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本">官</lem>
+              <rdg wit="#前本 #林家本"/>
               <note>官　前本・林家本この一字無し。</note>
             </app>
             <app from="#app5010470102" to="#app5010470102e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">判</lem>
-              <rdg/>
+              <lem wit="#近本傍書 #西本">判</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">衛</rdg>
+              <note place="傍">近本傍書「判」</note>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">判イ</seg>」</note>
               <note>判　土本・近本・壬本・京博本・梵本・前本・林家本「衛」、近本傍書「判」、京博本朱傍書「判イ」、西本により改める。</note>
             </app>
             <app from="#app5010470103" to="#app5010470103e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">手</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">手</lem>
+              <rdg wit="#林家本">午</rdg>
               <note>手　土本・近本・壬本・京博本・西本・梵本・前本「手」。林家本「午」。</note>
             </app>
             <app from="#app5010470104" to="#app5010470104e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">帥</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">帥</lem>
+              <rdg wit="#林家本">哺</rdg>
               <note>帥　土本・近本・壬本・京博本・西本・梵本・前本「帥」、林家本「哺」。</note>
             </app>
             <app from="#app5010470105" to="#app5010470105e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">上</lem>
-              <rdg/>
+              <rdg wit="#壬本 #京博本傍書">下</rdg>
+              <note place="傍">京博本傍書「下」</note>
               <note>上　壬本・京博本傍書「下」。</note>
             </app>
             <app from="#app5010470106" to="#app5010470106e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">判官</lem>
-              <rdg/>
+              <lem wit="#西本">判官</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">衛間</rdg>
+              <note place="傍">京博本傍書「判官イ」</note>
               <note>判官　土本・近本・壬本・京博本・梵本・前本・林家本「衛間」、京博本傍書「判官イ」、西本により改める。</note>
             </app>
             <app from="#app5010470107" to="#app5010470107e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">人</lem>
-              <rdg/>
+              <lem wit="#西本">人</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">人史</rdg>
               <note>人　土本・近本・壬本・京博本・梵本・前本・林家本この下に「史」あり。西本により削る。</note>
             </app>
             <app from="#app5010470108" to="#app5010470108e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">解</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">解</lem>
+              <rdg wit="#西本">【肖+半】</rdg>
               <note>解　土本・近本・壬本・京博本・梵本・前本・林家本「解」。西本「〓【肖+半】」。</note>
             </app>
           </div>
@@ -2820,28 +2832,32 @@
                 xml:id="app5010500104e"/> 監・別当、<anchor xml:id="app5010500105"/>並<anchor
                 xml:id="app5010500105e"/>人別充夫三人・馬三疋、馬医・書生等毎二人充夫一人、人別馬一疋、 </p>
             <app from="#app5010500101" to="#app5010500101e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">牽</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">牽</lem>
+              <rdg wit="#林家本">宰</rdg>
               <note>牽　土本・近本・壬本・京博本・西本・梵本・前本「牽」、林家本「宰」。</note>
             </app>
             <app from="#app5010500102" to="#app5010500102e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">例</lem>
-              <rdg/>
+              <note place="傍">壬本傍書「限イニ」</note>
+              <note place="傍">京博本傍書「限イニ」</note>
               <note>例　土本・近本・壬本・京博本・西本・梵本・前本・林家本「例」、壬本・京博本傍書「限イニ」。</note>
             </app>
             <app from="#app5010500103" to="#app5010500103e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">使</lem>
-              <rdg/>
+              <lem wit="#京博本朱傍書 #西本">使</lem>
+              <rdg wit="#土本 #近本 #前本 #林家本">史</rdg>
+              <rdg wit="#壬本 #京博本 #梵本">吏</rdg>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">使</seg>」</note>
               <note>使　土本・近本・前本・林家本「史」、壬本・京博本・梵本「吏」、京博本朱傍書「使」、西本により改める。</note>
             </app>
             <app from="#app5010500104" to="#app5010500104e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">牧</lem>
-              <rdg/>
+              <lem wit="#梵本 #西本">牧</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #前本">枚</rdg>
+              <rdg wit="#林家本">校</rdg>
               <note>牧　土本・近本・壬本・京博本・前本「枚」、林家本「校」、梵本・西本により改める。</note>
             </app>
             <app from="#app5010500105" to="#app5010500105e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">並</lem>
-              <rdg/>
+              <lem wit="#西本">並</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">并</rdg>
               <note>並　土本・近本・壬本・京博本・梵本・前本・林家本「并」、西本により改める。</note>
             </app>
           </div>
@@ -2866,53 +2882,53 @@
                 />厚並同上、〉並以正税充料、毎年<anchor xml:id="app5010510110"/>採<anchor xml:id="app5010510110e"
                 />送<placeName corresp="#山城国">山城国</placeName>、国取返抄備所司勘会、 </p>
             <app from="#app5010510101" to="#app5010510101e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">十</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本補書 #林家本">十</lem>
+              <rdg>前本補書「十」</rdg>
               <note>十　前本はこの一字補書。</note>
             </app>
             <app from="#app5010510102" to="#app5010510102e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">枚</lem>
-              <rdg/>
+              <rdg wit="#林家本">牧</rdg>
               <note>枚　土本・近本・壬本・京博本・西本・梵本・前本「枚」、林家本「牧」。</note>
             </app>
             <app from="#app5010510103" to="#app5010510103e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">枚</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #梵本 #西本 #前本">枚</lem>
+              <rdg wit="#壬本 #京博本 #林家本">牧</rdg>
               <note>枚　土本・近本・西本・梵本・前本「枚」、壬本・京博本・林家本「牧」。</note>
             </app>
             <app from="#app5010510104" to="#app5010510104e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">三</lem>
-              <rdg/>
+              <lem wit="#近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">三</lem>
+              <rdg wit="#土本">二</rdg>
               <note>三　土本「二」。近本・壬本・京博本・西本・梵本・前本・林家本により改める。</note>
             </app>
             <app from="#app5010510105" to="#app5010510105e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">広</lem>
-              <rdg/>
+              <lem wit="#西本">広</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">弘</rdg>
               <note>広　土本・近本・壬本・京博本・梵本・前本・林家本「弘」。西本により改める。</note>
             </app>
             <app from="#app5010510106" to="#app5010510106e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">枚</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #梵本 #西本 #前本">枚</lem>
+              <rdg wit="#壬本 #京博本 #林家本">牧</rdg>
               <note>枚　土本・近本・西本・梵本・前本「枚」。壬本・京博本・林家本「牧」。</note>
             </app>
             <app from="#app5010510107" to="#app5010510107e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">各</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本">各</lem>
+              <rdg wit="#前本 #林家本"/>
               <note>各　前本・林家本この一字無し。</note>
             </app>
             <app from="#app5010510108" to="#app5010510108e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">枚</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #梵本 #西本 #前本">枚</lem>
+              <rdg wit="#壬本 #京博本 #林家本">牧</rdg>
               <note>枚　土本・近本・西本・梵本・前本「枚」。壬本・京博本・林家本「牧」。</note>
             </app>
             <app from="#app5010510109" to="#app5010510109e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">広</lem>
-              <rdg/>
+              <lem wit="#西本">広</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">弘</rdg>
               <note>広　土本・近本・壬本・京博本・梵本・前本・林家本「弘」。西本により改める。</note>
             </app>
             <app from="#app5010510110" to="#app5010510110e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">採</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #西本 #前本 #林家本">採</lem>
+              <rdg wit="#梵本">杪</rdg>
               <note>採　土本・近本・壬本・京博本・西本・前本・林家本「採」。梵本「杪」。</note>
             </app>
           </div>
@@ -2944,58 +2960,61 @@
                 xml:id="app5010530110e"/>者、以介准守、余官不在、節級相准亦同、〈年月日下<anchor xml:id="app5010530111"
                 />主<anchor xml:id="app5010530111e"/>典者史生通之、〉 </p>
             <app from="#app5010530101" to="#app5010530101e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">主</lem>
-              <rdg/>
+              <lem wit="#西本">主</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本"/>
+              <note>壬本補書「主イ」</note>
+              <note>京博本補書「主イ」</note>
               <note>主　土本・近本・壬本・京博本・梵本・前本・林家本無し。壬本・京博本補書「主イ」、西本により補う。</note>
             </app>
             <app from="#app5010530102" to="#app5010530102e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">部</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本抹消 #前本 #林家本">部</lem>
+              <note>西本弥書「部<del>部</del>」</note>
               <note>部　西本弥書（二文字目を抹消）。</note>
             </app>
             <app from="#app5010530103" to="#app5010530103e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">郡</lem>
-              <rdg/>
+              <lem wit="#西本">郡</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">部</rdg>
               <note>郡　土本・近本・壬本・京博本・梵本・前本・林家本「部」。西本により改める。</note>
             </app>
             <app from="#app5010530104" to="#app5010530104e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">云</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">云</lem>
+              <rdg wit="#林家本">三</rdg>
               <note>云　土本・近本・壬本・京博本・西本・梵本・前本「云」、林家本「三」。</note>
             </app>
             <app from="#app5010530105" to="#app5010530105e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">物</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">物</lem>
+              <rdg wit="#林家本">牧</rdg>
               <note>物　土本・近本・壬本・京博本・西本・梵本・前本「物」、林家本「牧」。</note>
             </app>
             <app from="#app5010530106" to="#app5010530106e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">衙</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">衙</lem>
+              <rdg wit="#林家本">衛</rdg>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">衛イ</seg>」</note>
               <note>衙　土本・近本・壬本・京博本・西本・梵本・前本「衙」。京博本朱傍書「衛イ」。林家本「衛」。</note>
             </app>
             <app from="#app5010530107" to="#app5010530107e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">云</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">云</lem>
+              <rdg wit="#林家本">三</rdg>
               <note>云　土本・近本・壬本・京博本・西本・梵本・前本「云」、林家本「三」。</note>
             </app>
             <app from="#app5010530108" to="#app5010530108e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">衙</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">衙</lem>
+              <rdg wit="#林家本">衛</rdg>
               <note>衙　土本・近本・壬本・京博本・西本・梵本・前本「衙」。林家本「衛」。</note>
             </app>
             <app from="#app5010530109" to="#app5010530109e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">典</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #西本 #前本 #林家本">典</lem>
+              <rdg wit="#梵本"/>
               <note>典　梵本無し。</note>
             </app>
             <app from="#app5010530110" to="#app5010530110e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">在</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本補書 #前本 #林家本">在</lem>
+              <note>西本補書「在」</note>
               <note>在　西本はこの一字補書。</note>
             </app>
             <app from="#app5010530111" to="#app5010530111e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">主</lem>
-              <rdg/>
+              <lem wit="#西本">主</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本"/>
               <note>主　土本・近本・壬本・京博本・梵本・前本・林家本無し。西本により補う。</note>
             </app>
           </div>
@@ -3013,28 +3032,28 @@
               <lb/>介姓名 <lb/>右、介入部内牒<anchor xml:id="app5010540104"/>在<anchor xml:id="app5010540104e"
                 />治郡守式、<anchor xml:id="app5010540105"/>掾<anchor xml:id="app5010540105e"/>以下署如令、 </p>
             <app from="#app5010540101" to="#app5010540101e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">衙</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">衙</lem>
+              <rdg wit="#林家本">衛</rdg>
               <note>衙　土本・近本・壬本・京博本・西本・梵本・前本「衙」。林家本「衛」。</note>
             </app>
             <app from="#app5010540102" to="#app5010540102e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">頭</lem>
-              <rdg/>
+              <lem wit="#土本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">頭</lem>
+              <rdg wit="#近本"/>
               <note>頭　近本無し。</note>
             </app>
             <app from="#app5010540103" to="#app5010540103e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">主</lem>
-              <rdg/>
+              <lem wit="#鈴鹿本">主</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本"/>
               <note>主　土本・近本・壬本・京博本・西本・梵本・前本・林家本無し。鈴鹿本により補う。</note>
             </app>
             <app from="#app5010540104" to="#app5010540104e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">在</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #西本 #前本 #林家本">在</lem>
+              <rdg wit="#梵本">右</rdg>
               <note>在　土本・近本・壬本・京博本・西本・前本・林家本「在」。梵本「右」。</note>
             </app>
             <app from="#app5010540105" to="#app5010540105e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">掾</lem>
-              <rdg/>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">拠</rdg>
               <note>掾　土本・近本・壬本・京博本・梵本・前本・林家本「拠」、朱傍書「掾」、西本により改める。</note>
             </app>
           </div>
@@ -3096,128 +3115,171 @@
               <lb/><seg rendition="#indent">盞四口〈灯盞料、〉</seg>
             </p>
             <app from="#app5010550101" to="#app5010550101e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">大</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">大</lem>
+              <rdg wit="#林家本">天</rdg>
               <note>大　土本・近本・壬本・京博本・西本・梵本・前本「大」、林家本「天」。</note>
             </app>
             <app from="#app5010550102" to="#app5010550102e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">石</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">石</lem>
+              <rdg wit="#林家本">百</rdg>
               <note>石　土本・近本・壬本・京博本・西本・梵本・前本「石」、林家本「百」。</note>
             </app>
             <app from="#app5010550103" to="#app5010550103e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">菱</lem>
-              <rdg/>
-              <note>菱　土本・近本・壬本・西本・梵本・前本・林家本、京博本「麦」。</note>
+              <lem wit="#土本 #近本 #壬本 #梵本 #西本 #前本 #林家本">菱</lem>
+              <rdg wit="#京博本">麦</rdg>
+              <note>菱　土本・近本・壬本・西本・梵本・前本・林家本「菱」、京博本「麦」。</note>
             </app>
             <app from="#app5010550104" to="#app5010550104e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">人</lem>
-              <rdg/>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">仁イ</seg>」</note>
               <note>人　京博本朱傍書「仁イ」。</note>
             </app>
             <app from="#app5010550105" to="#app5010550105e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">芡</lem>
-              <rdg/>
+              <lem wit="#鈴鹿本">芡</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">茨</rdg>
               <note>芡　土本・近本・壬本・京博本・西本・梵本・前本・林家本「茨」、鈴鹿本により改める。</note>
             </app>
             <app from="#app5010550106" to="#app5010550106e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">人</lem>
-              <rdg/>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">仁イ</seg>」</note>
               <note>人　京博本朱傍書「仁イ」。</note>
             </app>
             <app from="#app5010550107" to="#app5010550107e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">醯</lem>
-              <rdg/>
+              <lem wit="#鈴鹿本">醯</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">【酉+兼】</rdg>
               <note>醯　土本・近本・壬本・京博本・西本・梵本・前本・林家本「〓【酉+兼】」、訳注本は大学式一により改める。鈴鹿本により改める。</note>
             </app>
             <app from="#app5010550108" to="#app5010550108e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">簋</lem>
-              <rdg/>
+              <note place="傍">土本朱傍書「<seg rendition="#shu">―【鬼-ノ】</seg>」</note>
+              <note place="傍">近本朱傍書「<seg rendition="#shu">―【鬼-ノ】</seg>」</note>
+              <note place="傍">前本朱傍書「<seg rendition="#shu">―【鬼-ノ】</seg>」</note>
+              <note place="傍">林家本朱傍書「<seg rendition="#shu">―【鬼-ノ】</seg>」</note>
+              <note place="傍">壬本朱傍書「<seg rendition="#shu">乙【鬼-ノ】</seg>」</note>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">乙【鬼-ノ】</seg>」</note>
+              <note place="傍">梵本朱傍書「<seg rendition="#shu">乙【鬼-ノ】</seg>」</note>
+              <note>西本「音〓【鬼-ノ】」</note>
               <note>簋　土本・近本・前本・林家本朱傍書「―〓【鬼-ノ】」、壬本・京博本・梵本朱傍書「乙〓【鬼-ノ】」、西本「音〓【鬼-ノ】」。</note>
             </app>
             <app from="#app5010550109" to="#app5010550109e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">稷</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #梵本 #西本 #前本">稷</lem>
+              <rdg wit="#壬本 #京博本 #林家本">穂</rdg>
               <note>稷　土本・近本・西本・梵本・前本「稷」、壬本・京博本・林家本「穂」。</note>
             </app>
             <app from="#app5010550110" to="#app5010550110e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">粱</lem>
-              <rdg/>
+              <lem wit="#梵別">粱</lem>
+              <rdg wit="土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">梁</rdg>
               <note>粱　土本・近本・壬本・京博本・西本・梵本・前本・林家本「梁」、梵別により改める。</note>
             </app>
             <app from="#app5010550111" to="#app5010550111e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">豕</lem>
-              <rdg/>
+              <note place="傍">土本朱傍書「<seg rendition="#shu">井</seg>」</note>
+              <note place="傍">近本朱傍書「<seg rendition="#shu">井</seg>」</note>
+              <note place="傍">壬本朱傍書「<seg rendition="#shu">井</seg>」</note>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">井</seg>」</note>
+              <note place="傍">梵本傍書「井」</note>
+              <note place="傍">前本傍書「イ」</note>
+              <note place="傍">林家本朱傍書「<seg rendition="#shu">イ</seg>」</note>
               <note>豕　土本・近本・壬本・京博本朱傍書「井」、梵本傍書「井」、前本傍書「イ」・林家本朱傍書「イ」。</note>
             </app>
             <app from="#app5010550112" to="#app5010550112e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">座</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">座</lem>
+              <rdg wit="#林家本">至</rdg>
               <note>座　土本・近本・壬本・京博本・西本・梵本・前本「座」、林家本「至」。</note>
             </app>
             <app from="#app5010550113" to="#app5010550113e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">別</lem>
-              <rdg/>
+              <lem cause="意改">別</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">別各</rdg>
               <note>別　土本・近本・壬本・京博本・西本・梵本・前本・林家本この下に「各」あり。衍字とみて削る。</note>
             </app>
             <app from="#app5010550114" to="#app5010550114e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">醴</lem>
-              <rdg/>
+              <note place="傍">土本朱傍書「<seg rendition="#shu">乙頼</seg>」</note>
+              <note place="傍">近本朱傍書「<seg rendition="#shu">乙頼</seg>」</note>
+              <note place="傍">壬本朱傍書「<seg rendition="#shu">乙頼</seg>」</note>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">乙頼</seg>」</note>
+              <note place="脚">西本脚書「乙頼」</note>
+              <note place="傍">梵本傍書「乙頼」</note>
+              <note>前本・林家本「―頼」</note>
               <note>醴　土本・近本・壬本・京博本朱傍書「乙頼」、西本脚書「乙頼」、梵本傍書「乙頼」、前本・林家本「―頼」。</note>
             </app>
             <app from="#app5010550115" to="#app5010550115e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">齊</lem>
-              <rdg/>
+              <note place="傍">土本朱傍書「<seg rendition="#shu">乙采</seg>」</note>
+              <note place="傍">近本朱傍書「<seg rendition="#shu">乙采</seg>」</note>
+              <note place="傍">壬本朱傍書「<seg rendition="#shu">乙采</seg>」</note>
+              <note place="傍">玄梁本朱傍書「<seg rendition="#shu">乙采</seg>」</note>
+              <note place="脚">西本脚書「乙采」</note>
+              <note place="傍">梵本傍書「乙采」</note>
+              <note place="傍">前本傍書「乙采」</note>
+              <note>林家本「―采」</note>
               <note>齊　土本・近本・西本・京博本・梵本・前本・林家本「齊」、土本・近本・壬本・玄梁本朱傍書「乙采」、西本脚書「乙采」・梵本・前本傍書「乙采」、林家本「―采」。</note>
             </app>
             <app from="#app5010550116" to="#app5010550116e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">別</lem>
-              <rdg/>
+              <lem cause="意改">別</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">別各</rdg>
               <note>別　土本・近本・壬本・京博本・西本・梵本・前本・林家本この下に「各」あり。衍字とみて削る。</note>
             </app>
             <app from="#app5010550117" to="#app5010550117e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">別</lem>
-              <rdg/>
+              <lem cause="意改">別</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">別各</rdg>
               <note>別　土本・近本・壬本・京博本・西本・梵本・前本・林家本この下に「各」あり。衍字とみて削る。</note>
             </app>
             <app from="#app5010550118" to="#app5010550118e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">胙</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #西本 #前本 #林家本">胙</lem>
+              <rdg wit="#壬本 #京博本 #梵本">昨</rdg>
               <note>胙　土本・近本・西本・前本・林家本「胙」、壬本・梵本・京博本「昨」。</note>
             </app>
             <app from="#app5010550119" to="#app5010550119e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">盥</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本">盥</lem>
+              <rdg wit="#林家本">盥罍</rdg>
+              <note place="傍">土本朱傍書「<seg rendition="#shu">乙管</seg>」</note>
+              <note place="傍">近本朱傍書「<seg rendition="#shu">乙管</seg>」</note>
+              <note place="傍">壬本朱傍書「<seg rendition="#shu">乙管</seg>」</note>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">乙管</seg>」</note>
+              <note place="傍">梵本傍書「乙管」</note>
+              <note place="傍">梵本傍書「乙管」</note>
+              <note place="傍">前本傍書「乙管」</note>
+              <note place="傍">林家本傍書「―管」</note>
               <note>盥　土本・近本・壬本・京博本朱傍書「乙管」、西本・梵本・前本傍書「乙管」、林家本この下「罍」に傍書「―管」。</note>
             </app>
             <app from="#app5010550120" to="#app5010550120e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">一</lem>
-              <rdg/>
+              <lem wit="#西本">一</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本"/>
               <note>一　土本・近本・壬本・京博本・梵本・前本・林家本なし、西本により補う。</note>
             </app>
             <app from="#app5010550121" to="#app5010550121e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">洗</lem>
-              <rdg/>
+              <note place="傍">土本朱傍書「<seg rendition="#shu">セイ乙井</seg>」</note>
+              <note place="傍">近本朱傍書「<seg rendition="#shu">セイ乙井</seg>」</note>
+              <note place="傍">壬本朱傍書「<seg rendition="#shu">セイ乙井</seg>」</note>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">セイ乙井</seg>」</note>
+              <note place="傍">西本朱傍書「<seg rendition="#shu">乙井</seg>」</note>
+              <note place="傍">梵本傍書「セイ」</note>
+              <note place="傍">前本傍書「セイ」</note>
+              <note place="傍">林家本傍書「セイ乙井」</note>
               <note>洗　土本・近本・壬本・京博本朱傍書「セイ乙井」・西本朱傍書「乙井」、梵本・前本傍書「セイ」・林家本傍書「セイ乙井」。</note>
             </app>
             <app from="#app5010550122" to="#app5010550122e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">一</lem>
-              <rdg/>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">本マヽ</seg>」</note>
+              <note place="傍">梵本傍書「乙井」</note>
+              <note place="傍">前本傍書「乙井」</note>
               <note>一　京博本朱傍書「本マヽ」、梵本・前本傍書「乙井」。</note>
             </app>
             <app from="#app5010550123" to="#app5010550123e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">枚</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #梵本 #西本 #前本 #林家本">枚</lem>
+              <rdg wit="#壬本 #京博本">牧</rdg>
               <note>枚　土本・近本・西本・梵本・前本・林家本「枚」、京博本・壬本「牧」。</note>
             </app>
             <app from="#app5010550124" to="#app5010550124e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">広</lem>
-              <rdg/>
+              <lem wit="#西本">広</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">弘</rdg>
               <note>広　土本・近本・壬本・京博本・梵本・前本・林家本「弘」、西本により改める。</note>
             </app>
             <app from="#app5010550125" to="#app5010550125e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">厚</lem>
-              <rdg/>
+              <lem wit="#西本">厚</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本"/>
               <note>厚　土本・近本・壬本・京博本・梵本・前本・林家本なし、西本により補う。</note>
             </app>
           </div>
@@ -3240,63 +3302,65 @@
                 />脡<anchor xml:id="app5010560111e"/>脊・横脊・短脇・正脇・<anchor xml:id="app5010560112"
                 />代<anchor xml:id="app5010560112e"/>脇各二骨以並、余皆不設、若土無者、皆以其類充之、 </p>
             <app from="#app5010560101" to="#app5010560101e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">芡</lem>
-              <rdg/>
+              <lem wit="#西本">芡</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">茨</rdg>
               <note>芡　土本・近本・壬本・京博本・梵本・前本・林家本「茨」、西本により改める。</note>
             </app>
             <app from="#app5010560102" to="#app5010560102e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">豆</lem>
-              <rdg/>
+              <lem wit="#西本">豆</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本"/>
+              <note>京博本補書「豆イ」</note>
               <note>豆　土本・近本・壬本・梵本・前本・林家本なし、京博本補書「豆イ」、西本により補う。</note>
             </app>
             <app from="#app5010560103" to="#app5010560103e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">醯</lem>
-              <rdg/>
+              <lem wit="#鈴鹿本">醯</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">【酉+兼】</rdg>
+              <rdg wit="#西本"/>
               <note>醯　土本・近本、壬本・京博本・梵本・前本・林家本「〓（酉+兼）」、西本なし、鈴鹿本により改める。</note>
             </app>
             <app from="#app5010560104" to="#app5010560104e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">鹿</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">鹿</lem>
+              <rdg wit="#西本">塵</rdg>
               <note>鹿　土本・近本・壬本・京博本・梵本・前本・林家本「鹿」、西本「塵」。</note>
             </app>
             <app from="#app5010560105" to="#app5010560105e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">簋</lem>
-              <rdg/>
+              <lem wit="#近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">簋</lem>
+              <rdg wit="#土本">簠</rdg>
               <note>簋　土本「簠」、近本・壬本・京博本・西本・梵本・前本・林家本により改める。</note>
             </app>
             <app from="#app5010560106" to="#app5010560106e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">粱</lem>
-              <rdg/>
+              <lem cause="意改">粱</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">梁</rdg>
               <note>粱　土本・近本・壬本・京博本・西本・梵本・前本・林家本「梁」、訳注本は「粱」。意により改める。</note>
             </app>
             <app from="#app5010560107" to="#app5010560107e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">牲</lem>
-              <rdg/>
-              <note>牲　土本・近本・壬本・梵本・前本・林家本、京博本・西本「性」。</note>
+              <lem wit="#土本 #近本 #壬本 #梵本 #前本 #林家本">牲</lem>
+              <rdg wit="#京博本 #西本">性</rdg>
+              <note>牲　土本・近本・壬本・梵本・前本・林家本「牲」、京博本・西本「性」。</note>
             </app>
             <app from="#app5010560108" to="#app5010560108e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">臂</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本補書 #前本 #林家本">臂</lem>
+              <note>西本補書「牲」</note>
               <note>臂　西本この一字補書。</note>
             </app>
             <app from="#app5010560109" to="#app5010560109e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">臑</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">臑</lem>
+              <rdg wit="#西本">【石+需】</rdg>
+              <note place="傍">西本傍書「乙儒」</note>
               <note>臑　土本・近本・壬本・京博本・梵本・前本・林家本「臑」、西本「【石+需】」に傍書「乙儒」。</note>
             </app>
             <app from="#app5010560110" to="#app5010560110e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">去</lem>
-              <rdg/>
               <note>去　訳注本は大唐開元礼六によりこの下に「下」を補う。</note>
             </app>
             <app from="#app5010560111" to="#app5010560111e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">脡</lem>
-              <rdg/>
+              <lem wit="#近本傍書 #壬本傍書 #京博本傍書 #梵本傍書 #西本 #前本 #林家本">脡</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本">【月+逓】</rdg>
               <note>脡　土本「〓【月+逓】」、近本・京博本・梵本・壬本「〓【月+逓】」に傍書「脡」、西本・前本・林本により改める。</note>
             </app>
             <app from="#app5010560112" to="#app5010560112e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">代</lem>
-              <rdg/>
+              <lem wit="#西本">代</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">伐</rdg>
               <note>代　土本・近本・壬本・京博本・梵本・前本・林家本「伐」、西本により改める。</note>
             </app>
           </div>
@@ -3334,53 +3398,71 @@
                   xml:id="app5010570113e"/>、〉</seg>
             </p>
             <app from="#app5010570101" to="#app5010570101e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">掌</lem>
-              <rdg/>
+              <lem wit="#土本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">掌</lem>
+              <rdg wit="#近本">常</rdg>
               <note>掌　土本・壬本・京博本・西本・梵本・前本・林家本「掌」、近本「常」。</note>
             </app>
             <app from="#app5010570102" to="#app5010570102e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">献</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本">献</lem>
+              <rdg wit="#前本 #林家本"/>
               <note>献　前本・林家本この一字なし。</note>
             </app>
             <app from="#app5010570103" to="#app5010570103e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">事</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">事</lem>
+              <rdg wit="#西本">事参軍事賛礼大学寮式惣謂之謁者</rdg>
               <note>事　西本この下に「参軍事賛礼大学寮式惣謂之謁者」あり。</note>
             </app>
             <app from="#app5010570104" to="#app5010570104e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">授</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本朱傍書 #前本">授</lem>
+              <rdg wit="#西本">拠</rdg>
+              <rdg wit="#林家本">援</rdg>
+              <note place="傍">西本朱傍書「<seg rendition="#shu">授</seg>」</note>
               <note>授　土本・近本・壬本・京博本・梵本・前本「授」、西本「拠」に朱傍書「授」、林家本「援」。</note>
             </app>
             <app from="#app5010570105" to="#app5010570105e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">事</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">事</lem>
+              <rdg wit="#西本">事大学寮式謂之郊社令</rdg>
+              <rdg wit="#前本 #林家本"/>
               <note>事　前本・林家本なし、西本この下に「大学寮式謂之郊社令」あり。</note>
             </app>
             <app from="#app5010570106" to="#app5010570106e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">事</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">事</lem>
+              <rdg wit="#西本">事大学寮式謂之奉礼郎</rdg>
               <note>事　西本この下に「大学寮式謂之奉礼郎」あり。</note>
             </app>
             <app from="#app5010570107" to="#app5010570107e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">麾</lem>
-              <rdg/>
-              <note>麾　土本・近本・壬本・京博本・梵本・前本・林家本「麾」、西本「塵」に朱傍書「麾」、土本朱傍書「乙覚」・近本朱傍書「乙売」・壬本・京博本・西本・前本・林家本朱傍書「乙貴」・梵本朱傍書「乙貢」。</note>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本朱傍書 #前本 #林家本">麾</lem>
+              <rdg wit="#西本">塵</rdg>
+              <note place="傍">西本朱傍書「<seg rendition="#shu">麾</seg>」</note>
+              <note place="傍">土本朱傍書「<seg rendition="#shu">乙覚</seg>」</note>
+              <note place="傍">近本朱傍書「<seg rendition="#shu">乙売</seg>」</note>
+              <note place="傍">壬本朱傍書「<seg rendition="#shu">乙貴</seg>」</note>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">乙貴</seg>」</note>
+              <note place="傍">西本朱傍書「<seg rendition="#shu">乙貴</seg>」</note>
+              <note place="傍">前本朱傍書「<seg rendition="#shu">乙貴</seg>」</note>
+              <note place="傍">林家本朱傍書「<seg rendition="#shu">乙貴</seg>」</note>
+              <note place="傍">梵本朱傍書「<seg rendition="#shu">乙貢</seg>」</note>
+              <note>麾　土本・近本・壬本・京博本・梵本・前本・林家本「麾」、西本「塵」に朱傍書「麾」、土本朱傍書「乙覚」、近本朱傍書「乙売」、壬本・京博本・西本・前本・林家本朱傍書「乙貴」、梵本朱傍書「乙貢」。</note>
             </app>
             <app from="#app5010570108" to="#app5010570108e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">執</lem>
-              <rdg/>
-              <note>執　土本・近本・壬本・京博本・西本・梵本、京博本朱傍書「贄イ」、前本・林家本「贄」。</note>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本">執</lem>
+              <rdg wit="#前本 #林家本">贄</rdg>
+              <note>執　土本・近本・壬本・京博本・西本・梵本「執」、京博本朱傍書「贄イ」、前本・林家本「贄」。</note>
             </app>
             <app from="#app5010570109" to="#app5010570109e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">冪</lem>
-              <rdg/>
+              <lem wit="#西本">冪</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">幕</rdg>
               <note>冪　土本・近本・壬本・京博本・梵本・前本・林家本「幕」、西本により改める。</note>
             </app>
             <app from="#app5010570110" to="#app5010570110e">
               <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">洗</lem>
-              <rdg/>
+              <note place="傍">土本朱傍書「<seg rendition="#shu">乙井</seg>」</note>
+              <note place="傍">近本朱傍書「<seg rendition="#shu">乙井</seg>」</note>
+              <note place="傍">壬本朱傍書「<seg rendition="#shu">乙井</seg>」</note>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">乙井</seg>」</note>
+              <note place="傍">西本傍書「乙井」</note>
+              <note place="傍">梵本傍書「乙井」</note>
+              <note>前本「乙イ」</note>
               <note>洗　土本・近本・壬本・京博本朱傍書「乙井」、西本・梵本傍書「乙井」、前本「乙イ」。</note>
             </app>
             <app from="#app5010570111" to="#app5010570111e">
@@ -3389,13 +3471,15 @@
               <note>洗　壬本・京博本この下に「一執」なし。</note>
             </app>
             <app from="#app5010570112" to="#app5010570112e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">胙</lem>
-              <rdg/>
+              <lem wit="#西本">胙</lem>
+              <rdg wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">位</rdg>
+              <note place="傍">京博本朱傍書「<seg rendition="#shu">胙イ</seg>」</note>
+              <note place="傍">西本朱傍書「<seg rendition="#shu">作</seg>」</note>
               <note>胙　土本・近本・壬本・京博本・梵本・前本・林家本「位」、京博本朱傍書「胙イ」。西本「胙」に朱傍書「作」。西本により改める。</note>
             </app>
             <app from="#app5010570113" to="#app5010570113e">
-              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #西本 #前本 #林家本">事</lem>
-              <rdg/>
+              <lem wit="#土本 #近本 #壬本 #京博本 #梵本 #前本 #林家本">事</lem>
+              <rdg wit="#西本">事大学寮式謂之齋郎</rdg>
               <note>事　西本この下に「大学寮式謂之齋郎」あり。</note>
             </app>
           </div>
