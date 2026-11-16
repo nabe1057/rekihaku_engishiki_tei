@@ -1541,7 +1541,7 @@
               <note>内、内侍座於東廂舎　九本欠損。</note>
             </app>
             <app from="#app3810030104" to="#app3810030104e">
-              <lem cause="#意改">帖</lem>
+              <lem cause="意改">帖</lem>
               <rdg wit="#土本 #九本 #近本 #京博本 #慶長本"/>
               <note>帖　土本等無し。考異に従い補う。</note>
             </app>
@@ -1571,7 +1571,7 @@
               <note>方　九本、「下敷」と左傍書あり。</note>
             </app>
             <app from="#app3810030110" to="#app3810030110e">
-              <lem cause="#意改">二</lem>
+              <lem cause="意改">二</lem>
               <rdg wit="#土本 #九本 #近本 #京博本 #慶長本"/>
               <note>二　土本等無し。考異に従い補う。</note>
             </app>
@@ -3148,7 +3148,7 @@
               <note>祭　訳注本は下に「料」を例補する。</note>
             </app>
             <app from="#app3810660121" to="#app3810660121e">
-              <lem cause="#意改">御膳</lem>
+              <lem cause="意改">御膳</lem>
               <rdg wit="#土本 #九本 #近本 #京博本 #慶長本">織女</rdg>
               <note>御膳　土本「織女」。考異に従い改める。</note>
             </app>
